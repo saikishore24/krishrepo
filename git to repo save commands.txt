@@ -1,0 +1,7 @@
+First we have to create the repo--> after that copy the clone-->come to git bash-->
+git clone past the url--> cd kishorerepo --> touch filename--> git status--> 
+git add filename(else write .)--> git commit -m "passthemsg" -->git status-->
+git space push
+
+
+ 
